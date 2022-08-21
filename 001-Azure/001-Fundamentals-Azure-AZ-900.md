@@ -58,7 +58,7 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privid
 - Não firnece acesso aos usuários fora da organização.
 <br><p>
 **Observação:**<p>
-Este ambiente é justamente o on-premise, em que a organização tem todo sua estrutura montada internamente, como servidores, armazenamento, rede e etc.
+*Este ambiente é justamente o on-premise, em que a organização tem todo sua estrutura montada internamente, como servidores, armazenamento, rede e etc.*
 <br>
 
 <div align="center">
@@ -98,5 +98,40 @@ Este ambiente é justamente o on-premise, em que a organização tem todo sua es
 - Oferece maior flexibilidade;
 - As organizações determinam onde executar seus aplicativos;
 - As organizações controlam os requsitos de segurança, conformidade ou juridicos.
+
+<div align="left">
+<br>
+
+### 2.0 Considerações e Benefícios da Nuvem
+#### 2.1 Benefícios da Nuvem
+- Alta disponibilidade:<br>
+  *SLA,Acordo de Nível de Serviço.*<p>
+  
+- Tolerância a falhas:<br>
+  *Replicação de informações, mesmo que tem um zerviço indisponivel em uma ponta, o usuário não irá perceber a indisponibilidade, u seja, é tolerante a falhas.*<p>
+  
+- Escalabilidade:<br>
+  *Esta associado quando vamos alterar recusos para atender uma demanda operacional, exemplo: Aumento de disco*.<p>
+  
+- Elasticidade:<br>
+  *Neste caso podemos usar como exemplo o período de balck-friday, em que precisamos ter um aumento de cumputação conforme a demanda.*<p>
+  
+- Alcance global:<br>
+  **<p>
+  
+- Capacidade de latência do cliente:<br>
+  **<p>
+  
+- Agilidade:<br>
+  **<p>
+  
+- Considerações sobre custo preditivo:<br>
+  <p>
+  
+- Recuperação de desaste:<br>
+  **<p>
+  
+- Segurança:<br>
+  **<p>
 
 <div/>
