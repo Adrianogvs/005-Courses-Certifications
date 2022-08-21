@@ -19,7 +19,6 @@ Descrever o gerenciamento de custos do Azure e os Contratos de nível de Serviç
 <br><br/>
 
 ### 1.0 Modelos de Nuvem
-
 #### 1.1 O que é computação em nuvem?
 Computação em Nuvem é a entrega de serviços de computação por meio de internet, possibilitando uma inovação mais rápida, recursos flexíveis e economia de escala.
 
@@ -36,15 +35,22 @@ Computação em nuvem nada mais é a entrega rápida de recursos computacionais 
 A computação em nuvem fornece possibilidades que o modelo on-premise não pode atingir.<br>
 Na computação em nuvem temos três modelos, sendo os modelos **publico, prividado e hibrido**.
 
+<div align="left">
+<br>
+
 #### 1.2.1 Nuvem Publica
 - Pertence a serviços de nuvem ou provedor de hosting.
 - Fornece recursos e serviçlos a várias organizações.
 - Acesso voa conexão de rede segura (geralmente pela internet).
 <br>
+
 <div align="center">
 <img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\005.png" alt="005" width="250"/>
 <div/>
 <br/>
+
+<div align="left">
+<br>
 
 #### 1.2.2 Nuvem Privada
 - As organizações criam um ambiente em nuvem em seu datacenter.
@@ -54,15 +60,20 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privid
 **Observação:**<p>
 Este ambiente é justamente o on-premise, em que a organização tem todo sua estrutura montada internamente, como servidores, armazenamento, rede e etc.
 <br>
+
 <div align="center">
 <img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\006.png" alt="006" width="200"/>
 <div/>
 <br/>
 
+<div align="left">
+<br>
+
 #### 1.2.3 Nuvem Hibrida
 - Combina as nuvens Pública e Privada para permitir que os aplicativos sejam executados no local mais apropiado.
 - Este é um dos modelos mais utilizado.
 <br>
+
 <div align="center">
 <img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\007.png" alt="007" width="400"/>
 <div/>
@@ -70,6 +81,7 @@ Este ambiente é justamente o on-premise, em que a organização tem todo sua es
 
 <div align="left">
 <br>
+  
 #### 1.3 Comparação do modelo de nuvem
 
 #### 1.3.1 Nuvem Pública
@@ -86,8 +98,5 @@ Este ambiente é justamente o on-premise, em que a organização tem todo sua es
 - Oferece maior flexibilidade;
 - As organizações determinam onde executar seus aplicativos;
 - As organizações controlam os requsitos de segurança, conformidade ou juridicos.
-
-
-<div>
 
 <div/>
