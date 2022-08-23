@@ -146,15 +146,48 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privad
 <img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/008.png" alt="008" width="400"/>
 <div/>
 <div align="left">
-<br>
-  
-- Recuperação de desaste:<br>
-  *É quando tive um problema e meu ambiente precisa subir em outra região, por exemplo temos um grupo de máquina na regiçao do Brasil e temos replica nos Estados Unidos.*<p>
+
+ - **Modelo baseado em consumo**<br>
+   Os provedores de serviços de nuvem operam em um modelo baseado em consumo, o que significa que os usuários finais so pagam pelos recursos que usam. O que for usado é o que eles pagam.
+   - Melhor previsão de custos.
+   - São fornecidos os preços apra serviços e recursos individuais.
+   - A cobrança é baseada no uso real.
+
+- Recuperação de desastre:<br>
+  *É quando tive um problema e meu ambiente precisa subir em outra região, por exemplo temos um grupo de máquina na região do Brasil e temos replica nos Estados Unidos.*<p>
   
 - Segurança:<br>
   *Podemos conectar na nuvem por diversos sérvios e teremos serviços criptografados, porem tem itens que não é responsabilidade do provaider.*<p>
 
 
+### 3.0 Serviços de Nuvem.
+#### 3.1 Infraestrutura como serviço (**IaaS**)
+Criar uma infraestrutura de TI de pagamento conforme o uso alugando servidores, máquinas virtuais, armazenamento, redes e sistemas operacionais de um provedor de nuvem.<br>
+<div align="center">
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/009.png" alt="009" width="400"/>
+<div/>
+<div align="left">
 
+#### 3.2 Plataforma como serviço (**PaaS**)
+Oferece ambiente para criação, teste e implantação de aplicativos de software, sem focar no gerenciamento de infraestrutura subjacente.<br>
+<div align="center">
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/010.png" alt="010" width="400"/>
+<div/>
+<div align="left">
+
+#### 3.3 Software como serviço (**SaaS**)
+Os usuários se conectam e usam aplicativos com base em nuvem pela internet, por exemplo, Microsoft Office 365, e-mail e calendários.<br>
+<div align="center">
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/011.png" alt="011" width="400"/>
+<div/>
+<div align="left">
+
+#### 3.4 Comparação do serviço de nuvem
+<div align="center">
+
+**IaaS**|**PaaS**|**SaaS** 
+--------|--------|--------
+O serviço de nuvem mais flexível. | Fco no desenvolvimento de aplicativos. | Modelo de preço de pagamento conforme o uso.
+Você configura e gerencia o hardware para o seu aplicativo. | O gerenciamento da plataforma é manipulado pelo provedor de nuvem. | Os usuários pagam pelo software que usam em um modelo de assinatura.
 
 <div/>
