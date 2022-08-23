@@ -2,6 +2,9 @@
 
 ### Sobre a prova:
 
+<div align="center">
+<br>
+  
 Descição | %
 ---------|----------
 Descrever conceitos de nuvem; | 20-25% 
@@ -10,8 +13,12 @@ Descrever as principais soluções e ferramentas de gerenciamento no Azure; | 15
 Descrever recursos gerais de segurança e segurança de rede; | 10-15%
 Descrever os recursos de identidade, governança, privacidade e conformidade; | 15-20%
 Descrever o gerenciamento de custos do Azure e os Contratos de nível de Serviço. | 10-15%
-<br><br/>
+<div/>
+<br>
 
+<div align="left">
+<br>
+    
 ### Episódio 1 - Conceitos de Nuvem
 #### 1. Modelos de Nuvemn.
 #### 2. Considerações e Benefícios da Nuvem.
@@ -26,7 +33,7 @@ Computação em Nuvem é a entrega de serviços de computação por meio de inte
 
 Computação    |  Rede|  Armazenamento  | Análise
 --------------|-------|-----------------|---------
-<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\001.png" alt="001" width="150"/>|<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\002.png" alt="002" width="150"/>|<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\003.png" alt="003" width="150"/>|<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\004.png" alt="004" width="150"/>
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/001.png" alt="001" width="150"/>|<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/002.png" alt="002" width="150"/>|<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/003.png" alt="003" width="150"/>|<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/004.png" alt="004" width="150"/>
 
 <div/>
 <div align="left">
@@ -45,7 +52,7 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privid
 <br>
 
 <div align="center">
-<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\005.png" alt="005" width="250"/>
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/005.png" alt="005" width="250"/>
 <div/>
 <br/>
 
@@ -62,7 +69,7 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privid
 <br>
 
 <div align="center">
-<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\006.png" alt="006" width="200"/>
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/006.png" alt="006" width="200"/>
 <div/>
 <br/>
 
@@ -75,7 +82,7 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privid
 <br>
 
 <div align="center">
-<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\007.png" alt="007" width="400"/>
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/007.png" alt="007" width="400"/>
 <div/>
 <br/>
 
