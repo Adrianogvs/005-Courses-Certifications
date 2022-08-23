@@ -147,6 +147,7 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privad
 <div/>
 <div align="left">
 <br>
+  
 - Recuperação de desaste:<br>
   *É quando tive um problema e meu ambiente precisa subir em outra região, por exemplo temos um grupo de máquina na regiçao do Brasil e temos replica nos Estados Unidos.*<p>
   
