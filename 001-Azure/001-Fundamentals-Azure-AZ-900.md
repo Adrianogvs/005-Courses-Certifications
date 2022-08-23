@@ -134,9 +134,9 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privad
 - Considerações sobre custo preditivo. <br>
   São dois tipos de despesas, sendo:
    - **CapEx**:
-    - *Refere-se a despesas de capitais, como aquisição de maquinas, equipamentos, prédios proprios.*
-    - *Gastos inicial de dinheiro na infraestrutura física.*
-    - *Os custos de Capex tem um valor que é reduzido ao longo do tempo.*
+     - *Refere-se a despesas de capitais, como aquisição de maquinas, equipamentos, prédios proprios.*
+     - *Gastos inicial de dinheiro na infraestrutura física.*
+     - *Os custos de Capex tem um valor que é reduzido ao longo do tempo.*
    
    - **OpEx**:
      - *Refere-se a despesas operacionais, como alugueis, energia, publicidade, escritorio jurídico.*
