@@ -114,34 +114,34 @@ Na computação em nuvem temos três modelos, sendo os modelos **publico, privad
   *SLA,Acordo de Nível de Serviço.*<p>
   
 - Tolerância a falhas:<br>
-  *Replicação de informações, mesmo que tem um serviço indisponível em uma ponta, o usuário não irá perceber a indisponibilidade, ou seja, é tolerante a falhas. *<p>
+  *Replicação de informações, mesmo que tem um serviço indisponível em uma ponta, o usuário não irá perceber a indisponibilidade, ou seja, é tolerante a falhas.*<p>
   
 - Escalabilidade:<br>
   *Está associado quando vamos alterar recursos para atender uma demanda operacional, exemplo: Aumento de disco, ou seja, irá manter as configurações*.<p>
   
 - Elasticidade:<br>
-  *Neste caso podemos usar como exemplo o período de balck-friday, em que precisamos ter um aumento de cumputação conforme a demanda, ou seja, não ira manter-se as configurações. *<p>
+  *Neste caso podemos usar como exemplo o período de balck-friday, em que precisamos ter um aumento de cumputação conforme a demanda, ou seja, não ira manter-se as configurações.*<p>
   
 - Alcance global:<br>
-  *Todos os provaider oferecem grandes números de data center em inúmeras regiões. *<p>
+  *Todos os provaider oferecem grandes números de data center em inúmeras regiões.*<p>
   
 - Capacidade de latência do cliente:<br>
-  *Mesmo que tenhamos serviço alocados em regiões diferentes, ainda sim a latência é bem menor do que se tivéssemos serviços em ambientes on-premise, ou seja, internet tradicionais. *<p>
+  *Mesmo que tenhamos serviço alocados em regiões diferentes, ainda sim a latência é bem menor do que se tivéssemos serviços em ambientes on-premise, ou seja, internet tradicionais.*<p>
   
 - Agilidade:<br>
-  *Podemos associar a recurso de self-service, acesso o portal e ja tem os serviços, configura e em questões de segundos ja está tudo pronto para uso e não precisa fazer orçamentos e nem depende de recursos físicos. *<p>
+  *Podemos associar a recurso de self-service, acesso o portal e ja tem os serviços, configura e em questões de segundos ja está tudo pronto para uso e não precisa fazer orçamentos e nem depende de recursos físicos.*<p>
   
 - Considerações sobre custo preditivo. <br>
   São dois tipos de despesas, sendo:
    - **CapEx**:
     - *Refere-se a despesas de capitais, como aquisição de maquinas, equipamentos, prédios proprios.*
-    - *Gastos inicial de dinheiro na infraestrutura física. *
-    - *Os custos de Capex tem um valor que é reduzido ao longo do tempo. *
+    - *Gastos inicial de dinheiro na infraestrutura física.*
+    - *Os custos de Capex tem um valor que é reduzido ao longo do tempo.*
    
    - **OpEx**:
-     - *Refere-se a despesas operacionais, como alugueis, energia, publicidade, escritorio jurídico. *
-     - *Gastos em produtos e serviços conforme necessário, pagamento conforme o uso. *
-     - *Receber a conta imediatamente. *
+     - *Refere-se a despesas operacionais, como alugueis, energia, publicidade, escritorio jurídico.*
+     - *Gastos em produtos e serviços conforme necessário, pagamento conforme o uso.*
+     - *Receber a conta imediatamente.*
 <div align="center">
 <img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/008.png" alt="008" width="400"/>
 <div/>
