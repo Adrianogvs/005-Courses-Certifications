@@ -190,4 +190,14 @@ Os usuários se conectam e usam aplicativos com base em nuvem pela internet, por
 O serviço de nuvem mais flexível. | Fco no desenvolvimento de aplicativos. | Modelo de preço de pagamento conforme o uso.
 Você configura e gerencia o hardware para o seu aplicativo. | O gerenciamento da plataforma é manipulado pelo provedor de nuvem. | Os usuários pagam pelo software que usam em um modelo de assinatura.
 
+<div align="left">
+
+#### 3.5 Modelo de responsabilidade compartilhada
+
+<div align="center">
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/012.png" alt="012" width="400"/>
+<div/>
+<div align="left">
+
+
 <div/>
