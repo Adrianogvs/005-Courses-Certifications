@@ -195,7 +195,7 @@ Você configura e gerencia o hardware para o seu aplicativo. | O gerenciamento d
 #### 3.5 Modelo de responsabilidade compartilhada
 
 <div align="center">
-<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/012.png" alt="012" width="400"/>
+<img src="https://github.com/Adrianogvs/005-Courses-Certifications/blob/main/001-Azure/img/012.png" alt="012" width="800"/>
 <div/>
 <div align="left">
 
