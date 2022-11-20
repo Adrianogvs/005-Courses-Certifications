@@ -23,16 +23,6 @@ Descrever o gerenciamento de custos do Azure e os Contratos de nível de Serviç
 #### 1.1 O que é computação em nuvem?
 Computação em Nuvem é a entrega de serviços de computação por meio de internet, possibilitando uma inovação mais rápida, recursos flexíveis e economia de escala.
 
-<div align="center">
-Computação    |  Rede|  Armazenamento  | Análise
---------------|-------|-----------------|---------
-01 | 01 | 01 | <img src="d:\Users\Administrador\Documents\Github\005-Courses-Certifications\001-Azure\img\001.png" alt="001" width="150"/>
-02 | 02 | 02 | <img src="d:\Users\Administrador\Documents\Github\005-Courses-Certifications\001-Azure\img\002.png" alt="002" width="150"/>
-03 | 03 | 03 | <img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\003.png" alt="003" width="150"/>
-04 | 04 | 04 | <img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\004.png" alt="004" width="150"/>
-
-<div/>
-
 <div align="left">
 Computação em nuvem nada mais é a entrega rápida de recursos computacionais que estão em um determinado provaider.<br>
 A computação em nuvem fornece possibilidades que o modelo on-premise não pode atingir.<br>
