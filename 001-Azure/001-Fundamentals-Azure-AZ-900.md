@@ -26,10 +26,10 @@ Computação em Nuvem é a entrega de serviços de computação por meio de inte
 <div align="center">
 Computação    |  Rede|  Armazenamento  | Análise
 --------------|-------|-----------------|---------
-01 | 01 | 01 |<img src="d:\Users\Administrador\Documents\Github\005-Courses-Certifications\001-Azure\img\001.png" alt="001" width="150"/>
-02 | 02 | 02 |<img src="d:\Users\Administrador\Documents\Github\005-Courses-Certifications\001-Azure\img\002.png" alt="002" width="150"/> 
-03 | 03 | 03 |<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\003.png" alt="003" width="150"/> 
-04 | 04 | 04 |<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\004.png" alt="004" width="150"/>
+01 | 01 | 01 |<img src="d:\Users\Administrador\Documents\Github\005-Courses-Certifications\001-Azure\img\001.png" alt="001" width="150"/><p>
+02 | 02 | 02 |<img src="d:\Users\Administrador\Documents\Github\005-Courses-Certifications\001-Azure\img\002.png" alt="002" width="150"/><p>
+03 | 03 | 03 |<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\003.png" alt="003" width="150"/><p>
+04 | 04 | 04 |<img src="d:\Users\Administrador\Documents\GitHub\005-Courses-Certifications\001-Azure\img\004.png" alt="004" width="150"/><p>
 
 <div/>
 
